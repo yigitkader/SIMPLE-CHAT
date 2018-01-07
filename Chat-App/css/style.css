@@ -1,0 +1,16 @@
+body{
+
+	background-color: #000; margin: auto; font:12 px Arial;
+ }
+
+
+ #sohbet-genel{width: 65%; margin:30px auto }
+ #sohbet-icerik{background-color: #fff; padding: 10px; border: 3px; solid #ddd ; max-height: 300px; overflow: auto;}
+ #mesaj-gonder{color:#fff; padding: 10px 0;}
+ #mesaj-gonder h3 {float: left; margin-right: 30px; font-size: 14px; }
+ #mesaj-gonder textarea {border: 2px solid #ddd; padding: 5px; width: 86%; resize:none; overflow: auto;}
+ #giris {background-color: #fff; border: 3px solid #ddd ; padding: 5px; width: 21%; margin: 30px auto; }
+ #giris span {display: block; padding: 3px;}
+ #giris span input.giris_in {border:1px solid #aaa; padding: 5px; width: 280px; }
+ .sohbetMesaji {padding: 5px;}
+ .sohbetMesaji strong {background-color: #000; color: #fff; padding: 2px 5px; font-size: 15px; margin-right: 10px;}
